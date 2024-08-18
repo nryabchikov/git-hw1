@@ -3,4 +3,5 @@ public class Person {
     private int age;
     private String surname;
     private FirstRelease firstRelease;
+    private FinalRelease finalRelease;
 }
